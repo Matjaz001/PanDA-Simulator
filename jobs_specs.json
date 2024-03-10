@@ -1,0 +1,2004 @@
+{
+    "jobs": [
+        {
+            "job_name": "0.015840421215362555",
+            "priority": 1,
+            "num_of_events": 92488,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 35.76500976911228,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6672555472037806",
+            "priority": 1,
+            "num_of_events": 80533,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 16.20438288115974,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.45338801947649354",
+            "priority": 1,
+            "num_of_events": 84744,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 34.24489914972166,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6705018155678563",
+            "priority": 1,
+            "num_of_events": 79762,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.4610920569526954,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5631061597629153",
+            "priority": 1,
+            "num_of_events": 72910,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.694669776884776,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8147411602576974",
+            "priority": 1,
+            "num_of_events": 69377,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 19.353620791045838,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.2554743263203131",
+            "priority": 1,
+            "num_of_events": 62544,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.705531242814947,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.07077388523885675",
+            "priority": 1,
+            "num_of_events": 75902,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.3433555542270854,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.2574288908876978",
+            "priority": 1,
+            "num_of_events": 54784,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 5.295639743123115,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8586861730000401",
+            "priority": 1,
+            "num_of_events": 83753,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.4762453907987707,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5490306725534498",
+            "priority": 1,
+            "num_of_events": 71873,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 4.058638573252958,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.2170336920016357",
+            "priority": 1,
+            "num_of_events": 78362,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 5.313946365539099,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8469088461355628",
+            "priority": 1,
+            "num_of_events": 84907,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.563350219426263,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5875095158691588",
+            "priority": 1,
+            "num_of_events": 53440,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.703689683568264,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.655226622525556",
+            "priority": 1,
+            "num_of_events": 72707,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.253069901556349,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.3666337502674558",
+            "priority": 1,
+            "num_of_events": 81183,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.3157374538571489,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6935858696863332",
+            "priority": 1,
+            "num_of_events": 63369,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 8.884344673580237,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.13708330594430362",
+            "priority": 1,
+            "num_of_events": 51859,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.981626359855885,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.0689968455140697",
+            "priority": 1,
+            "num_of_events": 99779,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 10.15204066291388,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5641798319638229",
+            "priority": 1,
+            "num_of_events": 60651,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.447553692540712,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8388236040361461",
+            "priority": 1,
+            "num_of_events": 58449,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 11.169500617373112,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.198190378741818",
+            "priority": 1,
+            "num_of_events": 84161,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.8722654530814008,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6507889124902234",
+            "priority": 1,
+            "num_of_events": 95420,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.6774601498695625,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6204216744570211",
+            "priority": 1,
+            "num_of_events": 97883,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.181174516573254,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.3966542214766213",
+            "priority": 1,
+            "num_of_events": 74108,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.186527389809329,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.3628551724423974",
+            "priority": 1,
+            "num_of_events": 67884,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 6.196549723225096,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7269357157814995",
+            "priority": 1,
+            "num_of_events": 73190,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.6412485446426954,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7844155093234709",
+            "priority": 1,
+            "num_of_events": 81988,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 4.4900468995894816,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5480485771139187",
+            "priority": 1,
+            "num_of_events": 62343,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 16.261895914995876,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.33589283505568746",
+            "priority": 1,
+            "num_of_events": 74756,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.4910691260109499,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.929596285773352",
+            "priority": 1,
+            "num_of_events": 96843,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.7669171650221993,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.1942979142821678",
+            "priority": 1,
+            "num_of_events": 79684,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 8.561146530668115,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.24769106382856143",
+            "priority": 1,
+            "num_of_events": 68756,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.6996304105158981,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7799050366072715",
+            "priority": 1,
+            "num_of_events": 97068,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.8079848680722316,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8174644598316574",
+            "priority": 1,
+            "num_of_events": 83972,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.567977053114892,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9257247395916351",
+            "priority": 1,
+            "num_of_events": 56146,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.6106636200769793,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.26664990056721105",
+            "priority": 1,
+            "num_of_events": 60234,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 19.30682459908524,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.19130829454310638",
+            "priority": 1,
+            "num_of_events": 64656,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.66577588707153,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5829004982004792",
+            "priority": 1,
+            "num_of_events": 66338,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 27.10134836100318,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8563311082068298",
+            "priority": 1,
+            "num_of_events": 66048,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 26.523295008151333,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.06326936567311692",
+            "priority": 1,
+            "num_of_events": 74899,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.9358087326883195,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.04518380322724902",
+            "priority": 1,
+            "num_of_events": 81537,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 4.444542957610316,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5222372330260469",
+            "priority": 1,
+            "num_of_events": 50624,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.1224845053136007,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5769761408423623",
+            "priority": 1,
+            "num_of_events": 77458,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.4904580461692152,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5175568709612896",
+            "priority": 1,
+            "num_of_events": 92714,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.4368938178891675,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7261089148670853",
+            "priority": 1,
+            "num_of_events": 90232,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.440785500393119,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.10791686777803788",
+            "priority": 1,
+            "num_of_events": 93527,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.05462513058922261,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.032288846838640084",
+            "priority": 1,
+            "num_of_events": 87540,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.29858683924946106,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.0841294603639906",
+            "priority": 1,
+            "num_of_events": 69503,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.1728083583385809,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.031239279577523815",
+            "priority": 1,
+            "num_of_events": 58758,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.36930811596816215,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.08221565561845279",
+            "priority": 1,
+            "num_of_events": 99215,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.18299823439821994,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.4325372628942846",
+            "priority": 1,
+            "num_of_events": 82738,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.17546162595048978,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6956946303184548",
+            "priority": 1,
+            "num_of_events": 67119,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 6.252639849861673,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7038243397141632",
+            "priority": 1,
+            "num_of_events": 50574,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 7.9366693605299545,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9082050873670564",
+            "priority": 1,
+            "num_of_events": 77240,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 28.070170091499723,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.31530846725993256",
+            "priority": 1,
+            "num_of_events": 76409,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 41.0405748339942,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9365338300446695",
+            "priority": 1,
+            "num_of_events": 61997,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.7657160867224044,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8887098082436474",
+            "priority": 1,
+            "num_of_events": 93422,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.069837910476206,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.858608227150608",
+            "priority": 1,
+            "num_of_events": 93602,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 11.56422937315384,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.4357506392481082",
+            "priority": 1,
+            "num_of_events": 80776,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 12.21665554777272,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.12405860775101762",
+            "priority": 1,
+            "num_of_events": 74273,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 4.828969195805441,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.06381169195228531",
+            "priority": 1,
+            "num_of_events": 53146,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.46366725057308744,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9562754169734682",
+            "priority": 1,
+            "num_of_events": 94869,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.6839027428167026,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6352366985189692",
+            "priority": 1,
+            "num_of_events": 84043,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.4991763473888219,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6260552497353674",
+            "priority": 1,
+            "num_of_events": 95390,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.1035712224530353,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6193074549473672",
+            "priority": 1,
+            "num_of_events": 94141,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.4962969885317982,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6116540677184553",
+            "priority": 1,
+            "num_of_events": 71817,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.241292442740895,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.725805343686408",
+            "priority": 1,
+            "num_of_events": 67858,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 11.533556509683429,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.16779233478537003",
+            "priority": 1,
+            "num_of_events": 55789,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.838033770419337,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.3837907225230228",
+            "priority": 1,
+            "num_of_events": 85869,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.1743687727852022,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6447519838592023",
+            "priority": 1,
+            "num_of_events": 99446,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.718699008037751,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9221302246448934",
+            "priority": 1,
+            "num_of_events": 79631,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 17.951035661229128,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.14472983170654308",
+            "priority": 1,
+            "num_of_events": 56978,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 11.240309883510747,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7483403408717639",
+            "priority": 1,
+            "num_of_events": 79117,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 8.445733702800023,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8348331967425715",
+            "priority": 1,
+            "num_of_events": 85592,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.3943504454167102,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.19602941804563823",
+            "priority": 1,
+            "num_of_events": 92704,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.21680333766315796,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.09610949055243523",
+            "priority": 1,
+            "num_of_events": 88620,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 10.012007373320731,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5110767730174095",
+            "priority": 1,
+            "num_of_events": 92303,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.045159084908275,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8282572561360328",
+            "priority": 1,
+            "num_of_events": 55463,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 6.144903315480897,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.13495020752271847",
+            "priority": 1,
+            "num_of_events": 58068,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.24777682967392095,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6312770935735255",
+            "priority": 1,
+            "num_of_events": 61070,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 18.372810000845973,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6758449063114849",
+            "priority": 1,
+            "num_of_events": 81551,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.5846284008169491,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8470007945273064",
+            "priority": 1,
+            "num_of_events": 60778,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 12.859167445283555,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6524925906555593",
+            "priority": 1,
+            "num_of_events": 53017,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.09759237845716669,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.34064044493005174",
+            "priority": 1,
+            "num_of_events": 52004,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.9367154504612238,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5616205332722704",
+            "priority": 1,
+            "num_of_events": 51498,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.060348431007578036,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.9214398763721203",
+            "priority": 1,
+            "num_of_events": 99761,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.1696227377955661,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8061199570539659",
+            "priority": 1,
+            "num_of_events": 55412,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 5.876623155641619,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.30121905349733147",
+            "priority": 1,
+            "num_of_events": 70501,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 3.0087875667074333,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.7644162601212352",
+            "priority": 1,
+            "num_of_events": 66235,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.3587609082110967,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8810833240687067",
+            "priority": 1,
+            "num_of_events": 76934,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.0647610689561888,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.16975628405300158",
+            "priority": 1,
+            "num_of_events": 62398,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.6847699863544386,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.8875092418497167",
+            "priority": 1,
+            "num_of_events": 96106,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.21328924024107104,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.18993729376686286",
+            "priority": 1,
+            "num_of_events": 95441,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.25671767548268104,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5755433409230688",
+            "priority": 1,
+            "num_of_events": 72438,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.326191916046714,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6992661811245816",
+            "priority": 1,
+            "num_of_events": 59039,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 5.531298820560434,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.47797822523549927",
+            "priority": 1,
+            "num_of_events": 65444,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 2.2769600763470903,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.5292219064104857",
+            "priority": 1,
+            "num_of_events": 57317,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 12.484120081281773,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "ARNES",
+                    0.8
+                ],
+                [
+                    "NSC",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.16832876914903827",
+            "priority": 1,
+            "num_of_events": 82764,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 0.23151380364570917,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        },
+        {
+            "job_name": "0.6205671291108806",
+            "priority": 1,
+            "num_of_events": 89007,
+            "event_data_size_mb": 1,
+            "io_intensity": 1,
+            "max_parallel_cpus": 1,
+            "time_ms_per_event_per_core": 1.3566554526833687,
+            "difficulty_multiplier": 1,
+            "data_location": [
+                [
+                    "NSC",
+                    0.8
+                ],
+                [
+                    "ARNES",
+                    0.2
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "network_nodes": [
+    {
+      "node_name": "NSC",
+      "processing_nodes": [
+        {
+            "amount_of_cpus": 20,
+            "cpu_cores": 64,
+            "ram_gb": 256,
+            "cpu_speed_multiplier": 1,
+            "node_name": "nsc_type_1"
+        },
+        // {
+        //     "amount_of_cpus": 7,
+        //     "cpu_cores": 64,
+        //     "ram_gb": 512,
+        //     "cpu_speed_multiplier": 1.2,
+        //     "node_name": "nsc_type_2"
+        // },
+        // {
+        //     "amount_of_cpus": 8,
+        //     "cpu_cores": 32,
+        //     "ram_gb": 64,
+        //     "cpu_speed_multiplier": 0.8,
+        //     "node_name": "nsc_type_3"
+        // }
+      ],
+      "total_storage_gb": 100000000,
+      "network_speed_gbs": 10
+
+    },
+    {
+      "node_name": "ARNES",
+      "processing_nodes": [
+        {
+            "amount_of_cpus": 5,
+            "cpu_cores": 128,
+            "ram_gb": 256,
+            "cpu_speed_multiplier": 1,
+            "node_name": "arnes_type_1"
+        },
+        // {
+        //     "amount_of_cpus": 24,
+        //     "cpu_cores": 24,
+        //     "ram_gb": 128,
+        //     "cpu_speed_multiplier": 1,
+        //     "node_name": "arnes_type_1"
+        // }
+      ],
+      "total_storage_gb": 100000000,
+      "network_speed_gbs": 20
+    },
+  ]
+}
